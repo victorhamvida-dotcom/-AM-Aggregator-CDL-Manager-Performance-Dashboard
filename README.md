@@ -2,21 +2,19 @@
 This dashboard evaluates the performance of Aggregator Managers (AMs), also known as Channel Development Lead Managers (CDLs). It tracks their ability to grow and sustain qualified Points of Sale (POS), manage channel development, and earn performance-based bonuses.
  
 ### Table of Contents
-1.	[Executive Summary]()
-2.	[Business Problem]()
-3.	[Dataset Overview]()
-4.	[Dashboard Workflow]()
-5.	[Dashboard Visualization]()
-6.	[Key KPIs]()
-7.	[Insights]()
-8.	[Recommendations]()
-9.	[Technical Skills Demonstrated]()
-10.	[Project Outcome]()
-11.	[KPI Dashboard Summary]()
+1.	[Executive Summary](https://github.com/victorhamvida-dotcom/-AM-Aggregator-CDL-Manager-Performance-Dashboard#1-executive-summary)
+2.	[Business Problem](https://github.com/victorhamvida-dotcom/-AM-Aggregator-CDL-Manager-Performance-Dashboard#2-business-problem)
+3.	[Dataset Overview](https://github.com/victorhamvida-dotcom/-AM-Aggregator-CDL-Manager-Performance-Dashboard#3-dataset-overview)
+4.	[Dashboard Workflow](https://github.com/victorhamvida-dotcom/-AM-Aggregator-CDL-Manager-Performance-Dashboard#4-dashboard-workflow)
+5.	[Dashboard Visualization](https://github.com/victorhamvida-dotcom/-AM-Aggregator-CDL-Manager-Performance-Dashboard#5-dashboard-visualization)
+6.	[Key KPIs](https://github.com/victorhamvida-dotcom/-AM-Aggregator-CDL-Manager-Performance-Dashboard#5-dashboard-visualization)
+7.	[Insights](https://github.com/victorhamvida-dotcom/-AM-Aggregator-CDL-Manager-Performance-Dashboard#7-insights)
+8.	[Recommendations](https://github.com/victorhamvida-dotcom/-AM-Aggregator-CDL-Manager-Performance-Dashboard#8-recommendations)
+9.	[Technical Skills Demonstrated](https://github.com/victorhamvida-dotcom/-AM-Aggregator-CDL-Manager-Performance-Dashboard#9-technical-skills-demonstrated)
+10.	[Project Outcome](https://github.com/victorhamvida-dotcom/-AM-Aggregator-CDL-Manager-Performance-Dashboard#10-project-outcome)
+11.	[KPI Dashboard Summary](https://github.com/victorhamvida-dotcom/-AM-Aggregator-CDL-Manager-Performance-Dashboard#11-kpi-dashboard-summary)
 
 ## 1. Executive Summary
-This dashboard evaluates the performance of Aggregator Managers (AMs), also known as Channel Development Lead Managers (CDLs). It tracks their ability to grow and sustain qualified Points of Sale (POS), manage channel development, and earn performance-based bonuses.
-
 The dashboard highlights Top 20 Performing AMs and Bottom 20 Performing AMs, providing management with actionable insights into qualification rates, net growth, and bonus distribution across regions.
 
 ## 2. Business Problem
