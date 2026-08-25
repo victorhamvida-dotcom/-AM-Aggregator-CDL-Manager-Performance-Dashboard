@@ -1,7 +1,7 @@
 # 📊-AM-Aggregator-CDL-Manager-Performance-Dashboard
 This dashboard evaluates the performance of Aggregator Managers (AMs), also known as Channel Development Lead Managers (CDLs). It tracks their ability to grow and sustain qualified Points of Sale (POS), manage channel development, and earn performance-based bonuses.
  
-Table of Contents
+### Table of Contents
 1.	Executive Summary
 2.	Business Problem
 3.	Dataset Overview
@@ -30,6 +30,8 @@ Qualification Rate	% of qualified POS vs total
 Net Increase	Growth in qualified POS this cycle
 Bonus Earned	Incentive tied to qualification
 Ranking	Position among peers
+
+![]()
 
 4. Dashboard Workflow
 1.	Data Input: Aggregator/CDL performance data collected monthly.
